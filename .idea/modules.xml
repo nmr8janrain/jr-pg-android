@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/phonegap-sdk/callback-android/framework/Framework.iml" filepath="$USER_HOME$/phonegap-sdk/callback-android/framework/Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jr-pg-android.iml" filepath="$PROJECT_DIR$/Jr-pg-android.iml" />
+    </modules>
+  </component>
+</project>
+
