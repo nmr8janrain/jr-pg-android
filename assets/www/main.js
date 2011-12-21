@@ -22,10 +22,12 @@ function janrainWidgetOnload(auth_something) {
   //var redirect_uri = encodeURIComponent("jrfccdmobdiafiebjhbghn://finish");
   var redirect_uri = encodeURIComponent("intent:#Intent;action=com.phonegap.example.JR_ENGAGE;" +
       "S.some_variable=123456;package=com.phonegap.example;end");
+  //var redirect_uri = 'file://android_asset/www/index.html';
   janrain.settings.tokenUrl = 'http://nathan-mac.janrain.com:8080/login?redirect=' + redirect_uri;
   janrain.settings.type = 'modal';
   janrain.settings.linkClass = 'janrainModal';
   janrain.settings.returnExperienceTimeout = 5000;
+  janrain.settings.forceReauth = true;
 
   function isReady() {
     janrain.ready = true;

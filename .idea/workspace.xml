@@ -65,8 +65,8 @@
       <property name="field_breakpoints_groupByClasses" value="true" />
       <property name="method_breakpoints_groupByClasses" value="true" />
       <property name="exception_breakpoints_viewId" value="TABLE" />
-      <property name="field_breakpoints_viewId" value="TABLE" />
       <property name="exception_breakpoints_groupByClasses" value="true" />
+      <property name="field_breakpoints_viewId" value="TABLE" />
       <property name="method_breakpoints_groupByMethods" value="false" />
     </ui_properties>
   </component>
@@ -87,16 +87,16 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/www/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="80" selection-end="215" vertical-scroll-proportion="0.0">
+            <state line="29" column="38" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DroidGap.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DroidGap.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/phonegap-sdk/callback-android/framework/src/com/phonegap/DroidGap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1558" column="8" selection-start="55601" selection-end="55601" vertical-scroll-proportion="0.02097902">
+            <state line="1466" column="63" selection-start="52727" selection-end="52732" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,10 +111,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="46" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.0">
+            <state line="35" column="17" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.4642857">
               <folding />
             </state>
           </provider>
@@ -145,10 +145,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/assets/www/index2.html" />
-        <option value="$PROJECT_DIR$/assets/www/main.js" />
-        <option value="$USER_HOME$/phonegap-sdk/callback-android/framework/src/com/phonegap/DroidGap.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/assets/www/index.html" />
+        <option value="$PROJECT_DIR$/res/xml/phonegap.xml" />
+        <option value="$USER_HOME$/phonegap-sdk/callback-android/framework/src/com/phonegap/DroidGap.java" />
+        <option value="$PROJECT_DIR$/assets/www/main.js" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -299,11 +300,11 @@
     <property name="DEBUGGABLE_PROCESS" value="com.phonegap.example" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="2.1" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.PhonegapProof">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -454,7 +455,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -467,12 +468,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30603448" sideWeight="0.4092715" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30603448" sideWeight="0.113907285" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16821192" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65298015" sideWeight="0.99464667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8860927" sideWeight="0.99464667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.59072846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59072846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38543046" sideWeight="0.99677074" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -551,7 +552,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/xml/phonegap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="4" column="6" selection-start="122" selection-end="122" vertical-scroll-proportion="0.08498584" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/index.html">
@@ -563,7 +564,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="80" selection-end="215" vertical-scroll-proportion="0.0" />
+        <state line="29" column="38" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/phonegap-sdk/callback-android/framework/src/com/phonegap/DroidGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1466" column="63" selection-start="52727" selection-end="52732" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/android-sdk/git-repos/frameworks/base/core/java/android/app/Activity.java">
@@ -571,19 +579,14 @@
         <state line="3706" column="0" selection-start="156138" selection-end="156138" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="46" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/phonegap/example/PhoneGapExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/phonegap-sdk/callback-android/framework/src/com/phonegap/DroidGap.java">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1558" column="8" selection-start="55601" selection-end="55601" vertical-scroll-proportion="0.02097902">
+        <state line="35" column="17" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.4642857">
           <folding />
         </state>
       </provider>
